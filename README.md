@@ -1,11 +1,16 @@
 # Franco Miguez
 
-python developer whit django
+## backend whit python and django
 
-knowledge in:
+### knowledge in:
 
 - Python
-- Django
+  - Django
 - MYSQL
 - HTML
 - CSS
+  - bootstrap
+
+### Languages:
+
+- basic english
