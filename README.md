@@ -2,7 +2,7 @@
 - 🔭 actualmente estoy trabajando con [Id For Ideas](http://www.idforideas.com/)<br><br>
 - 👨‍💻 Pueden ver mis proyectos en [http://www.franco-miguez.com](http://www.franco-miguez.com)<br><br>
 - 💬 Pueden preguntarme sobre **Python, Django, HTML, CSS, Bootstrap, Linux**<br><br>
-- 📫 Pueden contactarme por **franco.miguez98@gmail.com**
+- 📫 Pueden contactarme por **contacto@franco-miguez.com**
 
 
 ## 🌐 Socials:
