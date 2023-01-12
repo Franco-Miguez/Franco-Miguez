@@ -1,4 +1,7 @@
 # 💫 Sobre mi:
+
+Soy una persona que quiere poder seguir creciendo y aportando en este mundo de IT. Fortalezas que destaco son responsabilidad, autodidacta, creativo y atento.
+
 - 🔭 actualmente estoy trabajando con [Id For Ideas](http://www.idforideas.com/)<br><br>
 - 👨‍💻 Pueden ver mis proyectos en [http://www.franco-miguez.com](http://www.franco-miguez.com)<br><br>
 - 💬 Pueden preguntarme sobre **Python, Django, HTML, CSS, Bootstrap, Linux**<br><br>
